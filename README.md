@@ -1,25 +1,25 @@
-<h1 align="center">Olá 👋, meu nome é Tiago Guimarães da Silva</h1>
-<h3 align="center">Tenho interesse em ajudar times a trabalhar a qualidade de software na concepção, desenvolvimento e entrega do produto através de práticas como: Agile Testing, Automação de testes Mobile, Web e WebServices, DevOps, infraestrutura para testes e metodologias ágeis para desenvolvimento de software.</h3>
+<h1 align="center">Hi 👋, my name is Tiago Guimarães da Silva</h1>
+<h3 align="center">I am interested in helping teams work with software quality in the conception, development, and delivery of the software through practices such as Agile Testing, Mobile, Web, and Web Services test automation, DevOps, infrastructure for testing, and agile methodologies for software development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiagoguimaraesss&label=Profile%20views&color=0e75b6&style=flat" alt="tiagoguimaraesss" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiagoguimaraesss" alt="tiagoguimaraesss" /></a> </p>
 
-- 🌱 Atualmente estou estudando sobre **desenvolvimento mobile**
+- 🌱 Currently studying **mobile development**
 
-- 👯 Estou colaborando em [Commitei! Software](https://github.com/commiteisoftware)
+- 👯 I'm collaborating on [Commitei! Software](https://github.com/commiteisoftware)
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/tiagoguimaraesss](https://github.com/tiagoguimaraesss)
+- 👨‍💻 All my projects are available at [https://github.com/tiagoguimaraesss](https://github.com/tiagoguimaraesss)
 
-- 📝 Eu costumo escrever artigos e postar no [https://medium.com/@tiagoguimaraesss](https://medium.com/@tiagoguimaraesss)
+- 📝 I usually write articles and post on [https://medium.com/@tiagoguimaraesss](https://medium.com/@tiagoguimaraesss)
 
-- 💬 Pergunte me sobre **automação de testes mobile, web e webservices, infraestrutura de testes, metodologias ágeis para desenvolvimento de software e boas práticas de desenvolvimento**
+- 💬 Ask me about **mobile, web, and web services test automation, test infrastructure, agile methodologies for software development, and best development practices**
 
-- 📫 Como me encontrar **tiago.guimaraes@ulbra.inf.br**
+- 📫 How to find me **krauserguimaraes@gmail.com**
 
-- 📄 Conheça minhas experiências em [https://www.linkedin.com/in/tiagoguimaraesss](https://www.linkedin.com/in/tiagoguimaraesss)
+- 📄 Explore my experiences in [https://www.linkedin.com/in/tiagoguimaraesss](https://www.linkedin.com/in/tiagoguimaraesss)
 
-- ⚡ Fato curioso **colecionador de retro game :video_game:**
+- ⚡ Fun fact **retro game collector :video_game:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
