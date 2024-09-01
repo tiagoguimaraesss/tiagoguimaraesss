@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is Tiago Guimarães da Silva</h1>
-<h3 align="center">✨I help teams work with software quality in the conception, development, and delivery of the software.💻</h3>
+<h3 align="center">✨I help teams work with quality in the design, development, and delivery of the software.💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiagoguimaraesss&label=Profile%20views&color=0e75b6&style=flat" alt="tiagoguimaraesss" /> </p>
 
