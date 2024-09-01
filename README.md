@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is Tiago Guimarães da Silva!</h1>
-<h3 align="right">✨I help teams work with quality in the design, development and delivery of the software 💻</h3>
+<h3 align="right">✨I help teams work with software quality in the design, development and delivery phases through practices such as Agile Testing, Mobile, Web and WebServices test automation, DevOps, test infrastructure, and agile methodologies for software development.💻</h3>
 
 - 🌱 Currently studying **backend and mobile development**
 
