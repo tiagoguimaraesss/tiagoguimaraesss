@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is Tiago Guimarães da Silva</h1>
-<h3 align="center">I help teams work on software quality in the design, development, and delivery phases.</h3>
+<h3 align="center">✨I help teams work with software quality in the conception, development, and delivery of the software.💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiagoguimaraesss&label=Profile%20views&color=0e75b6&style=flat" alt="tiagoguimaraesss" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **mobile, web, and web services test automation, test infrastructure, agile methodologies for software development, and best development practices**
 
-- 📫 How to find me **krauserguimaraes@gmail.com**
+- 📫 How to find me **tiagoqualityengineer@gmail.com**
 
 - 📄 Explore my experiences in [https://www.linkedin.com/in/tiagoguimaraesss](https://www.linkedin.com/in/tiagoguimaraesss)
 
