@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, my name is Tiago Guimarães da Silva</h1>
+<h1 align="center">Hi 👋, my name is Tiago Guimarães da Silva!</h1>
 <h3 align="center">✨I help teams work with software quality in the design, development, and delivery phases through practices such as Agile Testing, Mobile, Web and WebServices test automation, DevOps, test infrastructure, and agile methodologies for software development.💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiagoguimaraesss&label=Profile%20views&color=0e75b6&style=flat" alt="tiagoguimaraesss" /> </p>
 
 - 🌱 Currently studying **backend and mobile development**
-
-- 👨‍💻 All my projects are available at [https://github.com/tiagoguimaraesss](https://github.com/tiagoguimaraesss)
 
 - 📝 I usually write articles and post on [https://medium.com/@tiagoguimaraesss](https://medium.com/@tiagoguimaraesss)
 
@@ -14,8 +12,6 @@
 - 📫 How to find me **tiagoqualityengineer@gmail.com**
 
 - 📄 Explore my experiences in [https://www.linkedin.com/in/tiagoguimaraesss](https://www.linkedin.com/in/tiagoguimaraesss)
-
-- ⚡ Fun fact **retro game collector :video_game:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
