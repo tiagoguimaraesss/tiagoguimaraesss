@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is Tiago Guimarães da Silva</h1>
-<h3 align="center">I am interested in helping teams work with software quality in the conception, development, and delivery of the software through practices such as Agile Testing, Mobile, Web, and Web Services test automation, DevOps, infrastructure for testing, and agile methodologies for software development.</h3>
+<h3 align="center">I help teams work on software quality in the design, development, and delivery phases through practices such as Agile Testing, Mobile Test Automation, Web and WebServices Testing, DevOps, test infrastructure, and agile methodologies for software development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiagoguimaraesss&label=Profile%20views&color=0e75b6&style=flat" alt="tiagoguimaraesss" /> </p>
 
