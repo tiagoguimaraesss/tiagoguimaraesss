@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, my name is Tiago Guimarães da Silva!</h1>
 <h3 align="center">✨I help teams work with software quality in the design, development and delivery phases through practices such as Agile Testing, Mobile, Web and WebServices test automation, DevOps, test infrastructure, and agile methodologies for software development.💻</h3>
 
-- 🌱 Currently studying **backend and mobile development**
+- 🌱 Currently studying **holistic testing**
 
 - 📝 I usually write articles and post on [https://medium.com/@tiagoguimaraesss](https://medium.com/@tiagoguimaraesss)
 
@@ -15,8 +15,6 @@
 <p align="left">
 <a href="https://twitter.com/tguimaraesss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tguimaraesss" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tiagoguimaraesss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tiagoguimaraesss" height="30" width="40" /></a>
-<a href="https://fb.com/tiagoguimaraes93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tiagoguimaraes93" height="30" width="40" /></a>
-<a href="https://instagram.com/tiagoguimaraesss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tiagoguimaraesss" height="30" width="40" /></a>
 <a href="https://medium.com/@tiagoguimaraesss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tiagoguimaraesss" height="30" width="40" /></a>
 </p>
 
